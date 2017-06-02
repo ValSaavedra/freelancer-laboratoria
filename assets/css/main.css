@@ -1,0 +1,70 @@
+/*
+ * Estilos de tu proyecto
+ */
+html {
+    font-family: sans-serif;
+    display: block;
+    margin:0;
+    padding: 0;
+}
+
+header {
+    background: #18BC9C;
+    color: #fff;
+    background-size: cover;
+    display: inline-block;
+    width: 100%;
+    position: fixed;
+    z-index: 1000;    ;
+   }
+
+.logoMain{
+	display: left;
+}
+
+ul li{
+	display: inline-block;
+
+}
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+/*el avatar y unos h1 y h2*/
+.avatar{
+	display: center;
+	background-color:#18BC9C;
+}
+
+h1 h2{
+	display: center;
+}
+
+/*el h1 y las seis imágenes*/
+
+
+/*el h1 de ABOUT y las dos columnas de texto*/
+.portafolio{
+	display: center;
+	background-color: #18BC9C;
+	color: #FFF;
+}
+
+#conteiner{
+	display: inline-block;
+	margin:20%;
+}
+
+#about{
+	display: center;
+	background-color: #18BC9C;
+	color: #FFF;
+}
+
+p{
+	text-align: center;
+	}
